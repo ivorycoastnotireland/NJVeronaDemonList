@@ -6,7 +6,7 @@
     "verifier": "CitrusMatter",
     "verification": "https://www.youtube.com/watch?v=iEOWfjARUuE",
     "percentToQualify": "100",
-    "password": "Password Needed",
+    "password": "Password Needed",  
     "records": [
-    ]
+        {
 }
