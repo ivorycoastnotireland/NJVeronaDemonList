@@ -8,5 +8,29 @@
     "percentToQualify": "91",
     "password": "Free To Copy",
     "records": [
+           {
+            "user": "Bbopbop",
+            "link": "https://www.youtube.com/watch?v=ODSx0kHV7Go",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "CitrusMatter",
+            "link": "https://www.youtube.com/watch?v=ODSx0kHV7Go",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "AUGHHHHHHHHlfu",
+            "link": "https://www.youtube.com/watch?v=ODSx0kHV7Go",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Leo",
+            "link": "https://www.youtube.com/watch?v=ODSx0kHV7Go",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }
