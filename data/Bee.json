@@ -8,5 +8,11 @@
     "percentToQualify": "76",
     "password": "Free To Copy",
     "records": [
+             {
+            "user": "CitrusMatter",
+            "link": "https://www.youtube.com/watch?v=ohKPqGxotao",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
